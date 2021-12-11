@@ -7871,3 +7871,4 @@
 [2021-12-09 12:32:48] merlin-logger.INFO: The content import AJAX call will be executed with this import data {"title":"After import setup","data":3} []
 [2021-12-09 12:33:10] merlin-logger.DEBUG: The final step has been displayed [] []
 [2021-12-09 12:43:11] merlin-logger.DEBUG: The final step has been displayed [] []
+[2021-12-09 13:32:48] merlin-logger.DEBUG: The welcome step has been displayed [] []
